@@ -1,3 +1,6 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squirrel765&layout=compact)  
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+
 # Arduino Monitoring System with Python + Serial + OLED
 
 이 프로젝트는 PC의 CPU, GPU 사용률 및 온도 데이터를 Python으로 수집하고, 시리얼 통신을 통해 Arduino로 전송하여 OLED 디스플레이에 출력하는 시스템입니다.
