@@ -2,6 +2,9 @@
 
 이 프로젝트는 PC의 CPU, GPU 사용률 및 온도 데이터를 Python으로 수집하고, 시리얼 통신을 통해 Arduino로 전송하여 OLED 디스플레이에 출력하는 시스템입니다.
 
+![Image](https://github.com/user-attachments/assets/860d9878-1788-43b1-ada9-289db9d6a88c)
+
+
 ## 프로젝트 파일 구성
 
 
